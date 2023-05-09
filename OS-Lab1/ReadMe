@@ -1,0 +1,10 @@
+Steps to run the code:
+
+1. Load gcc version 9.2.0:
+    module load gcc-9.2
+
+2. CD to this directory.
+
+3. Type "make" in terminal to generate the executable.
+
+4. Use this executable to run the test samples.
